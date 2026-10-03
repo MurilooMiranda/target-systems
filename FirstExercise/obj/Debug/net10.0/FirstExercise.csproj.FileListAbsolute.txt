@@ -1,0 +1,14 @@
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\bin\Debug\net10.0\FirstExercise.exe
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\bin\Debug\net10.0\FirstExercise.deps.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\bin\Debug\net10.0\FirstExercise.runtimeconfig.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\bin\Debug\net10.0\FirstExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\bin\Debug\net10.0\FirstExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.AssemblyInfoInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.AssemblyInfo.cs
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\refint\FirstExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\FirstExercise.genruntimeconfig.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\FirstExercise\obj\Debug\net10.0\ref\FirstExercise.dll

@@ -1,0 +1,14 @@
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\bin\Debug\net10.0\ThirdExercise.exe
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\bin\Debug\net10.0\ThirdExercise.deps.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\bin\Debug\net10.0\ThirdExercise.runtimeconfig.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\bin\Debug\net10.0\ThirdExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\bin\Debug\net10.0\ThirdExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.AssemblyInfoInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.AssemblyInfo.cs
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.csproj.CoreCompileInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\refint\ThirdExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ThirdExercise.genruntimeconfig.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\ThirdExercise\obj\Debug\net10.0\ref\ThirdExercise.dll

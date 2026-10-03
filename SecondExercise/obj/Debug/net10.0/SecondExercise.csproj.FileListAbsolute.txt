@@ -1,0 +1,14 @@
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\bin\Debug\net10.0\SecondExercise.exe
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\bin\Debug\net10.0\SecondExercise.deps.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\bin\Debug\net10.0\SecondExercise.runtimeconfig.json
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\bin\Debug\net10.0\SecondExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\bin\Debug\net10.0\SecondExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.AssemblyInfoInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.AssemblyInfo.cs
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.csproj.CoreCompileInputs.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\refint\SecondExercise.dll
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.pdb
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\SecondExercise.genruntimeconfig.cache
+C:\Users\murilo.silva\Estudos\livecode\target-system\SecondExercise\obj\Debug\net10.0\ref\SecondExercise.dll
