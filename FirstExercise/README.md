@@ -6,8 +6,13 @@ Vendas abaixo de R$500,00 gera 1% de comissão
 A partir de R$500,00 gera 5% de comissão"
 
 **Entrada**: Não há entrada de dados.
+
 **Saída:** 
+
 João Silva: R$ 495,68
+
 Maria Souza: R$ 465,95
+
 Carlos Oliveira: R$ 379,37
+
 Ana Lima: R$ 404,98
